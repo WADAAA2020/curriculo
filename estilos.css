@@ -1,0 +1,79 @@
+.foto-perfil{
+     width:200px;
+     border:5px double white;
+}
+
+.cabecalho{
+    background-color:whitesmoke; 
+    width:1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    padding-top: 3opx;
+    padding-bottom: 30px;
+    text-align: center;
+    background-image: url("fundo-currículo.jpg");
+    background-size: cover;
+}
+
+.nome{
+    color:white;
+    margin-top: 5px;
+    margin-bottom: 0;
+    font-family: "Segoe UI";
+    font-size: 38px;
+}
+
+.cargo{
+    color: white;
+    margin-top: 2px;
+    font-family: "Segoe UI";
+    font-weight: 200;
+    font-size: 22px;
+}
+
+.botao{
+    border:1px solid blue;
+    display: block;
+    width: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: "Segoe UI";
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 3px;
+}
+
+.botao:hover{
+    background-color:red;
+    border-color:blue;
+}
+
+.informacoes{
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #1EABF7; 
+    padding-top: 20px;   
+}
+
+.titulo{
+    font-family: "Segoe UI";
+    color: white;
+    border-bottom: 1px solid;
+    margin-top: 30px;
+    text-transform: uppercase;
+}
+
+.texto-sobre{
+    font-size: 16px;
+    font-family: "Segoe UI";
+    font-weight: 400;
+    color:black;
+}
